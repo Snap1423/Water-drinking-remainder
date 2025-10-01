@@ -11,20 +11,17 @@ A simple Python script that reminds you to drink water every hour using desktop 
 
 ---
 
-## 📂 Project Structure
----
-
 ## ▶️ How to Use
 1. Install required library:
-   ```bash
-   pip install plyer
+
+       pip install plyer
 
 Run the script:
     
      python water_reminder.py
-  Every hour, you will see a system notification like:
-  
-    Please drink some water!
+     
+Every hour, you will see a system notification like:
+     Please drink some water!
     You need to drink some water!
 
   ⚙️ Customization
